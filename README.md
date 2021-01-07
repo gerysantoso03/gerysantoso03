@@ -14,7 +14,7 @@ I'm a Backend Developer & Database Designer working on [WannaBeStart Organizatio
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="gerysantoso03 Spotify Playing" width="350" />](https://open.spotify.com/user/gerysantos03)
 
-### Connect with me 🔗
+## Connect with me 🔗
 
 [<img align="left" alt="wannabestart.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="gerysantoso | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -24,7 +24,7 @@ I'm a Backend Developer & Database Designer working on [WannaBeStart Organizatio
 
 <br />
 
-### Tools 🧰
+## Tools 🧰
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -33,7 +33,7 @@ I'm a Backend Developer & Database Designer working on [WannaBeStart Organizatio
 
 <br />
 
-### Languages & Framework
+## Languages & Framework
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -50,7 +50,7 @@ I'm a Backend Developer & Database Designer working on [WannaBeStart Organizatio
 
 <br />
 
-### Github Trophy 🏆
+## Github Trophy 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gerysantoso03)](https://github.com/gerysantoso03/github-profile-trophy)
 
