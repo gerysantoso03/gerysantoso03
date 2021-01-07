@@ -17,7 +17,7 @@ I'm a Backend Developer & Database Designer working on [WannaBeStart Organizatio
 ## Connect with me 🔗
 
 [<img align="left" alt="wannabestart.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="gerysantoso | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="gerysantos03 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="akuoplet | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Gerysantos03 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="gerysntos | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -69,4 +69,4 @@ I'm a Backend Developer & Database Designer working on [WannaBeStart Organizatio
 [twitter]: https://twitter.com/akuoplet
 [facebook]: https://facebook.com/Gerysantos03
 [instagram]: https://instagram.com/gerysntos
-[linkedin]: https://www.linkedin.com/in/gery-santoso-8a95961b5/
+[linkedin]: https://www.linkedin.com/in/gerysantos03/
