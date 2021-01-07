@@ -1,4 +1,4 @@
-## 🛵 Gery Santoso 🛵
+## 🛵 Gery Santoso - aka Oplet 🛵
 
 I'm a Backend Developer & Database Designer working on [WannaBeStart Organization](https://github.com/WannaBeStart)
 
